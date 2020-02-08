@@ -1,4 +1,3 @@
-// Package docstorecache provides an httpclient Cache based on docstore.
 package docstorecache
 
 import (
